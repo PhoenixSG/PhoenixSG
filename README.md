@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashwat
+- 👋 Hi, I’m Shashwat Garg
 - 👀 I’m interested in almost every aspect of Computer Science right now.
 - 🌱 I’m currently doing my B.Tech. in CSE from IITB.
 - 💞️ I’m willing to collaborate on any project I might find sufficiently exciting.
