@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shashwat Garg
-- 👀 I’m interested in Theoretical CS, Deep Learning and Android Dev.
 - 🌱 I’m currently doing my B.Tech. in CSE from IITB.
 - 📫 Reach me @shashwatg2002@gmail.com for any communication/collaboration.
 
